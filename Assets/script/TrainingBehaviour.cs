@@ -8,6 +8,7 @@ public class TrainingBehaviour : MonoBehaviour {
     void Start () {
         x += 10;
 		x = x + 2;
+		as;
 	}
 	
 	// Update is called once per frame
