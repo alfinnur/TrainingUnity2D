@@ -1,5 +1,5 @@
 <?php
-	include 'config.php';
+	include 'config.php';d
 	
 	if ( !empty($_POST['id_beacon']) ){
 		$id_beacon = $_POST['id_beacon'];
